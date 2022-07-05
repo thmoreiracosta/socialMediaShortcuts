@@ -8,8 +8,7 @@ body {
 }
 
 .container-principal {
-  width: 448px;
-  border: 1px solid red;
+  width: 448px;  
   text-aling: center;
   margin: 50px auto;   
 }
