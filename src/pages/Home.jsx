@@ -2,7 +2,7 @@
 
 export function Home() {
   return (
-    <div class="container">
+    <div class="container-principal">
       <header className="mt-5 text-center p-2">
         <img
           className="w-25 rounded-circle border border-info border border-4 text-center mt-5"
