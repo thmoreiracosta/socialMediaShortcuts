@@ -27,9 +27,9 @@ body {
   }
 }
 
-@media only screen and (min-width: 448px) {
+@media only screen and (min-width: 340px) {
   .container-principal {
-    max-width: 75%;
+    max-width: 80%;
   }
 }
 
