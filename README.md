@@ -6,13 +6,13 @@
 🧭 ## Evento :rseat: Rocketseat para construção de um site com links das redes sociais semelhante ao linkthree
 
  🖥️ ### Tecnologias utilizadas
-    - Html
-    - CSS
-    - ReactJS
-    - Bootstrap
-    - Vercel
+      - Html
+      - CSS
+      - ReactJS
+      - Bootstrap
+      - Vercel
  
  🚀 ### Pontos desenvolvidos
-    - Front-end
-    - Deploy
-    - Iniciação de carreira DEV 
+      - Front-end
+      - Deploy
+      - Iniciação de carreira DEV 
